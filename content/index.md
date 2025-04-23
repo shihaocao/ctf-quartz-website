@@ -73,7 +73,7 @@ The game ends when one team has successfully captured all of the other team's fl
 
 # Other
 
-If you have suggestions for rules/silly-ideas that you want to see this event please shoot me an email at shihaocao@gmail.com, or dm me on twitter at [@shihao_cao](https://x.com/shihao_cao).
+If you have suggestions for rules/silly-ideas that you want to see this event please shoot us an email at shihaocao@gmail.com, or marielr@isaksonfamily.net, or dm us on twitter at [@shihao_cao](https://x.com/shihao_cao).
 
 [^1]: We have multiple flags in play so that while one flag is being returned/stolen, a team is not blocked significantly from being able to score a different flag. Circles will be marked via string and cones.
 [^2]: Flag circles and Jail circles exist so create clear well defined boundaries with which you can't puppy guard. Puppy guarding means being really close to the objective making it impossible to enter.
