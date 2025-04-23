@@ -8,15 +8,38 @@ title: Capture the Flag in Golden Gate Park!
          style="height: auto; max-width: 100%;">
   </div>
 </div>
+<div style="flex: 1; display: flex; text-align: center; justify-content: center; font-style: italic;">
+A photo from a CTF game in Feb!</div>
 
-### Why are we playing capture the flag in such a large area??
+# Why
+Why are we playing capture the flag in such a large area??
 
-Typically, capture the flag is about running as fast as possible. But by making the map larger, it opens the opportunity to sneak past enemies, call for backup, coordinate real strategies, and make friends in a behind-enemy-lines pincer movement. Of course though, there will still be plenty of running.
+Typically, capture the flag is a game of running, but we want to have silly moments with the homies. Plus, we're out of shape.
+
+By making the map larger, it addes opportunities to sneak past enemies, blend in with pedestrians, sneak behind bushes, and make friends in a behind-enemy-lines clandestine operation. Of course though, there will still be plenty of running.
 
 # Where and When
-1:00 PM @ Golden Gate Park. Map pin will be sent on partiful.
+
+04-27 Sunday 1:00 PM @ Golden Gate Park. Map pin will be sent on partiful.
+
+## Timeline
+
+Check back later. But be on time! ;)
 
 # Map
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
+    <img src="images/map2.jpg"
+         style="height: auto; max-width: 100%;">
+  </div>
+</div>
+
+Key:
+- Blue: Blue team territory
+- Red: Read team territory
+- Black: do not go inside buildings/marked areas
+Yes there is an intentional no-mans land on JFK drive where you can wander freely without being tagged.
 
 _Note: the map has been modified since the last text blast to exclude Kezar drive so we're not being unsafe._
 
@@ -48,7 +71,11 @@ This is about having fun, while winning is lit, all players reserve the right to
 ## Winning
 The game ends when one team has successfully captured all of the other team's flags and brought both back to their side, or have the most flags when the timer ends (60 minutes) 
 
-[^1]: We have multiple flags in play so that while one flag is being returned/stolen, a team is not blocked significantly from being able to score a different flag.
+# Other
+
+If you have suggestions for rules/silly-ideas that you want to see this event please shoot me an email at shihaocao@gmail.com, or dm me on twitter at [@shihao_cao](https://x.com/shihao_cao).
+
+[^1]: We have multiple flags in play so that while one flag is being returned/stolen, a team is not blocked significantly from being able to score a different flag. Circles will be marked via string and cones.
 [^2]: Flag circles and Jail circles exist so create clear well defined boundaries with which you can't puppy guard. Puppy guarding means being really close to the objective making it impossible to enter.
 [^3]: We make a jail breaker still vulnerable so they have the option of doing hail mary play of jail break -> flag capture. If they also got a free walk back, they would not be able to flag capture.
 [^4]: We enforce returning because a dropped flag has no well-defined flag circle, so no puppy-guarding is hard to enforce. We auto-score flags not returned sufficiently soon to make sure you can't just block scoring by returning flags slowly.
