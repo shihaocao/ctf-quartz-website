@@ -46,6 +46,17 @@ _Note: the map has been modified since the last text blast to exclude Kezar driv
 # Rules
 
 ## Flags
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
+    <img src="images/scao_flags.jpg"
+         style="height: auto; max-width: 60%;">
+  </div>
+</div>
+<div style="flex: 1; display: flex; text-align: center; justify-content: center; font-style: italic;">
+We made 4 flags for the game!</div>
+
+
 Each divided team will collectively decide where they want to put their flag within the boundary. The flag circle must encompass a area with circumfrence of `21m`[^2]. Must have 3 meters of clearance on all sides of impassible brush or walls/obstacles. The area around the flag is a safe zone (you can’t be tagged). Each team will have two flags in the center of their flag circle[^1].
 
 ## Tagging/Jail
