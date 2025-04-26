@@ -69,7 +69,7 @@ If someone is fleeing a flag circle with a flag in hand, and then becomes tagged
 This is about having fun, while winning is lit, all players reserve the right to say "it's not a big deal, let's do the thing that makes the vibes nicer". Keep your vibe-dar on and listen if something you're doing is not making the vibe lit.
 
 ## Winning
-The game ends when one team has successfully captured all of the other team's flags and brought both back to their side, or have the most flags when the timer ends (60 minutes) 
+The game does not end when all flags are captured. Instead the victor is determined by who has the most flags at the end of the game timer. This lets the losing team a chance to mount a counter-attack.
 
 # Other
 
