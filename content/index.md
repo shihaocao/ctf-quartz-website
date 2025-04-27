@@ -136,6 +136,8 @@ A flag is only defined as captured if it has made it to within the opposing team
 ## Additonal
 If someone is fleeing a flag circle with a flag in hand, and then becomes tagged, the flag _must_ be returned by the tagger within 5 minutes. If not, the flag counts as scored[^4].
 
+You can only hold one flag at a time.
+
 # Safety
 If you get hurt, and need help, yell "Help!". And all nearby players who are mid game and hear should stop playing (atleast temporarily) and assist. After, resume play via arbitration rules.
 
