@@ -14,3 +14,5 @@ Things to pack (Shihao):
 Things to pack (Mariel):
 - Snacks
 - Hella Cones
+- Nametags
+- Pens for nametags
