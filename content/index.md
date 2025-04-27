@@ -32,6 +32,21 @@ By making the map larger, it addes opportunities to sneak past enemies, blend in
 
 Please show up on time for rules/team formation! If you miss too much, we'll ask to to come back at 3:00 instead.
 
+## What to Bring / Wear
+
+Attire:
+- Long hiking pants / leggings
+- Long socks
+- Extra pair in case it gets wet
+- Sneakers
+- Light jacket in case of rain
+
+Other
+- Water bottle
+- Insect repellant if you have it - we will share
+
+If you're coming from something else and have a bag, you can leave it by your team's flag circle and it will implicitly watched over.
+
 # Map
 
 <div style="display: flex; align-items: center;">
@@ -65,11 +80,12 @@ _Note: the map has been modified since the last text blast to exclude Kezar driv
 <div style="flex: 1; display: flex; text-align: center; justify-content: center; font-style: italic;">
 We made 4 flags for the game!</div>
 
-Each divided team will collectively decide where they want to put their flags within the boundary.
+Each divided team will collectively decide where they want to put their flags within the boundary. However refs will play a part in finding a fair location.
 
-Flags are placed inside a flag circle. The flag circle must encompass a area with circumfrence of `21m`[^2]. Must have 3 meters of clearance on all sides of impassible brush or walls/obstacles. The area inside the flag circle is a safe zone (you can’t be tagged). Each team will have two flags in the center of their flag circle[^1].
+Flags are placed inside a flag circle. The flag circle must encompass a large area, and easily accessible from most directions. Flag circles must be placed on top of mowed grass. The area inside the flag circle is a safe zone (you can’t be tagged). Each team will have two flags in the center of their flag circle[^1].
 
 ## Starting
+
 Before the beginning of the game, all team members must start within the flag circle of their team. A textblast will mark the official and start and end of the game.
 
 ## Tagging
@@ -101,16 +117,36 @@ To not interfere with people trying to have a nice day in the park, entering bys
 
 See also [additional border rules](border).
 
-## Additonal
-If someone is fleeing a flag circle with a flag in hand, and then becomes tagged, the flag _must_ be returned by the tagger within 5 minutes. If not, the flag counts as scored[^4].
+See also [additional rules for brush/paths](paths).
 
 ## Vibes
 This is about having fun, while winning is lit, all players reserve the right to say "it's not a big deal, let's do the thing that makes the vibes nicer". Keep your vibe-dar on and listen if something you're doing is not making the vibe lit.
+
+## Arbitration
+If you have a disagreement about whether or not you are tagged or whether or not you are out of bounds. Yell "Stop!" talk out what you think is happening or has happened. Come to a reasonable agreement. Ties are settled via a game of rock-paper-scissors.
+- Regarding map boundaries/off-trail always err on the side of safety/less-sweaty.
+
+After arbitration, if the chasee is no longer in the wrong, let chasee have a **two second head start**, then resume the chase.
 
 ## Winning
 The game does not end when all flags are captured. Instead the victor is determined by who has the most flags at the end of the game timer. This lets the losing team a chance to mount a counter-attack.
 
 A flag is only defined as captured if it has made it to within the opposing team's flag circle[^6].
+
+## Additonal
+If someone is fleeing a flag circle with a flag in hand, and then becomes tagged, the flag _must_ be returned by the tagger within 5 minutes. If not, the flag counts as scored[^4].
+
+# Safety
+If you get hurt, and need help, yell "Help!". And all nearby players who are mid game and hear should stop playing (atleast temporarily) and assist. After, resume play via arbitration rules.
+
+If you are chasing/being chased, and notice your opponent trip, do not wait for them to ask for help. Stop/turn around, check if they are ok first. After, resume play via arbitration rules.
+
+Shihao and Mariel can be reached via the below, and we can coordinate larger help.
+- Shihao - 571 405 893 seven
+- Mariel - 415 416 062 five
+
+First aid will be available.
+
 # Other
 
 If you have suggestions for rules/silly-ideas that you want to see this event please shoot us an email at shihaocao@gmail.com, or marielr@isaksonfamily.net, or dm us on twitter at [@shihao_cao](https://x.com/shihao_cao).
