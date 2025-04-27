@@ -124,6 +124,9 @@ See also [additional rules for brush/paths](paths).
 ## Vibes
 This is about having fun, while winning is lit, all players reserve the right to say "it's not a big deal, let's do the thing that makes the vibes nicer". Keep your vibe-dar on and listen if something you're doing is not making the vibe lit.
 
+## Team Formation
+"Package deals" (groups of friends) are allowed of up to 4. We will try* to keep these groups together when making teams. Being on time will help trumendously!
+
 ## Arbitration
 If you have a disagreement about whether or not you are tagged or whether or not you are out of bounds. Yell "Stop!" talk out what you think is happening or has happened. Come to a reasonable agreement. Ties are settled via a game of rock-paper-scissors.
 - Regarding map boundaries/off-trail always err on the side of safety/less-sweaty.
