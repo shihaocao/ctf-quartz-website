@@ -29,7 +29,7 @@ By making the map larger, it addes opportunities to sneak past enemies, blend in
 - 2:00 - 3:00 ---- Game 1
 - 3:00 - 3:30 ---- Break, Flag Reset
 - 3:30 - 4:30 ---- Game 2
-- 4:30 - 4:00 ---- Story time
+- 4:30 - 5:00 ---- Cleanup
 
 Please show up on time for rules/team formation! If you miss too much, we'll ask to to come back at 3:00 instead.
 
