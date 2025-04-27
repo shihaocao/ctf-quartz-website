@@ -45,6 +45,8 @@ Other
 - Water bottle
 - Insect repellant if you have it - we will share
 
+_We will be using WhatsApp for exact timing and intra-team communication. Please install it ahead of time._
+
 If you're coming from something else and have a bag, you can leave it by your team's flag circle and it will implicitly watched over.
 
 # Map
