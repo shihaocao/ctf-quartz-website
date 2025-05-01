@@ -4,12 +4,39 @@ title: Capture the Flag in Golden Gate Park!
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
-    <img src="images/CTF1.jpg"
+    <img src="images/retro-all.jpg"
          style="height: auto; max-width: 100%;">
   </div>
 </div>
 <div style="flex: 1; display: flex; text-align: center; justify-content: center; font-style: italic;">
-A photo from a CTF game in Feb!</div>
+The team photo from our game in 2025!</div>
+
+# Retro
+Thank you for coming everyone! It was a blast getting to run around the park like kids.
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
+    <img src="images/retro-burpees.jpg"
+         style="height: auto; vertical-align: middle;">
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
+    <img src="images/retro-distance.jpg"
+         style="height: auto;">
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; max-width: 100%; margin: 0 5px;">
+    <img src="images/retro-captors.jpg"
+         style="height: auto;">
+  </div>
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; text-align: center; font-style: italic;">Doing burpees to escape</div>
+  <div style="flex: 1; text-align: center; font-style: italic;">Attackers in the distance</div>
+  <div style="flex: 1; text-align: center; font-style: italic;">Into the flag circle, but not yet back</div>
+</div>
+
+The rest of this document reflects the ruleset we sent out in the invite, and overall things went well!
+
+If you're interested in joining for next one shoot us an email/dm (see bottom).
 
 # Why
 Why are we playing capture the flag in such a large area??
@@ -148,10 +175,6 @@ You can only hold one flag at a time.
 If you get hurt, and need help, yell "Help!". And all nearby players who are mid game and hear should stop playing (atleast temporarily) and assist. After, resume play via arbitration rules.
 
 If you are chasing/being chased, and notice your opponent trip, do not wait for them to ask for help. Stop/turn around, check if they are ok first. After, resume play via arbitration rules.
-
-Shihao and Mariel can be reached via the below, and we can coordinate larger help.
-- Shihao - 571 405 893 seven
-- Mariel - 415 416 062 five
 
 First aid will be available.
 
